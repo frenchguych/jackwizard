@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+
+[jackwizard.jackwizard-pot]
+file_filter = assets/i18n/<lang>.po
+minimum_perc = 0
+source_file = assets/i18n/JackWizard.pot
+source_lang = en
+type = PO
+
